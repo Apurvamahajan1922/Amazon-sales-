@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Apurvamahajan1922
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning internship of Data Science
+- 👋 Hi, I’m
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
